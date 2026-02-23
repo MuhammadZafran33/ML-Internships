@@ -23,3 +23,13 @@ pie title Domain Distribution
     "NLP" : 25
     "Predictive Modeling" : 20
     "Data Engineering" : 15
+
+
+<p align="left">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a>
+</p>
+
+<div align="center">
+<sub>Built with ❤️ by <a href="https://www.google.com/search?q=https://github.com/MuhammadZafran33">Muhammad Zafran</a></sub>
+</div>
