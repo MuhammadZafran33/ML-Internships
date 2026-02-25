@@ -7,13 +7,35 @@
        ✅  img.shields.io
        ✅  user-images.githubusercontent.com  (GitHub-hosted gif — always renders)
      Theme: Deep Violet + Gold  →  "Master Portfolio" feel
+
+     FIX NOTES — clipping prevention:
+       • width is set to (longest_line_chars × char_px) + 120px safe padding
+       • size reduced to 38 so each char ≈ 22.8px — all lines fit in 900px
+       • lines shortened to ≤ 32 chars so nothing clips on any device
      ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- CROWN TITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=46&duration=2400&pause=800&color=A855F7&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%A7%A0+ML+Internships+Portfolio;Applied+Machine+Learning+%7C+Real+Companies;Building+a+Career+One+Project+at+a+Time+%F0%9F%9A%80" alt="Crown Title"/>
+<!-- ── LAYER 1 : CROWN LABEL (static, always full-width) ── -->
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-A855F7?style=flat-square&label=" alt="top bar"/>
 
-<!-- SUBTITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1500&color=D8B4FE&center=true&vCenter=true&width=1000&height=45&lines=Muhammad+Zafran+%E2%80%94+ML+Engineer+in+the+Making;NLP+%7C+Computer+Vision+%7C+Regression+%7C+Classification+%7C+Deep+Learning" alt="Subtitle"/>
+<br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%A7%A0_MACHINE_LEARNING-Internships_Portfolio-A855F7?style=for-the-badge&labelColor=1a0030&color=7C3AED"/>
+
+<br/><br/>
+
+<!-- ── LAYER 2 : MAIN ANIMATED TITLE ──
+     Longest line: "Real Projects. Real Impact." = 28 chars × 22.8px + 120 = 758px
+     Using width=860 gives 102px breathing room on each side — fully safe ── -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=38&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&multiline=false&width=860&height=90&lines=%F0%9F%A7%A0+ML+Internships+Portfolio;Real+Projects.+Real+Impact.;Building+My+ML+Career+%F0%9F%9A%80" alt="Crown Title"/>
+
+<!-- ── LAYER 3 : GOLD NAME LINE (static feel, slow blink) ──
+     "Muhammad Zafran" = 15 chars × 19.2px + 120 = 408px — width=500 is very safe ── -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=99999&pause=99999&color=EAB308&center=true&vCenter=true&width=500&height=40&lines=%E2%9C%A6+Muhammad+Zafran+%E2%9C%A6" alt="Name"/>
+
+<!-- ── LAYER 4 : SUBTITLE (rotating taglines) ──
+     Longest: "NLP · Vision · Regression · Deep Learning" = 41 chars × 10.8px + 120 = 563px
+     Using width=860 — fully safe with plenty of room ── -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&duration=3800&pause=1400&color=D8B4FE&center=true&vCenter=true&width=860&height=42&lines=ML+Engineer+in+the+Making+%F0%9F%A4%96;NLP+%C2%B7+Vision+%C2%B7+Regression+%C2%B7+Deep+Learning;Arch+Technologies+%7C+More+Coming+Soon..." alt="Subtitle"/>
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
