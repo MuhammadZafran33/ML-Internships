@@ -10,7 +10,7 @@
      ═══════════════════════════════════════════════════════════════════════ -->
 
 <!-- CROWN TITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=46&duration=2400&pause=800&color=A855F7&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%A7%A0+ML+Internships+Portfolio;Applied+Machine+Learning+%7C+Real+Companies;Building+a+Career+One+Project+at+a+Time+%F0%9F%9A%80" alt="Crown Title"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=46&duration=2400&pause=800&color=A855F7&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%A7%A0+ML+Internships+Portfolio; Applied+Machine+Learning+%7C+Real+Companies;Building+a+Career+One+Project+at+a+Time+%F0%9F%9A%80" alt="Crown Title"/>
 
 <!-- SUBTITLE -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1500&color=D8B4FE&center=true&vCenter=true&width=1000&height=45&lines=Muhammad+Zafran+%E2%80%94+ML+Engineer+in+the+Making;NLP+%7C+Computer+Vision+%7C+Regression+%7C+Classification+%7C+Deep+Learning" alt="Subtitle"/>
