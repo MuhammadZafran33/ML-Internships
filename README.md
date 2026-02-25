@@ -101,7 +101,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=50&lines=Hi%2C+I'm+Muhammad+Zafran+%F0%9F%91%8B;ML+Engineer+in+the+Making+%F0%9F%A4%96;WsCube+Tech+%7C+Arch+Technologies" alt="Name"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=EAB308&center=true&vCenter=true&width=560&height=50&lines=%E2%9C%A6+Muhammad+Zafran+%E2%9C%A6;ML+Engineer+in+the+Making+%F0%9F%A4%96" alt="Name"/>
 
 </div>
 
@@ -232,7 +232,7 @@ flowchart TD
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=55&lines=%F0%9F%8F%A2+Arch+Technologies+%E2%80%94+ML+Internship;4+Projects+%7C+4+Domains+%7C+All+Completed+%E2%9C%85" alt="Arch Title"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=680&height=55&lines=%F0%9F%8F%A2+Arch+Technologies+Internship;4+Projects+%C2%B7+4+Domains+%C2%B7+All+Done+%E2%9C%85" alt="Arch Title"/>
 
 </div>
 
@@ -315,13 +315,11 @@ flowchart LR
 | **Result** | R² **0.92** · RMSE **2.81** · MAE **1.94** (5-fold CV confirmed) |
 | **Why it matters** | Systematic model benchmarking + tuning — professional ML engineering mindset |
 
-```mermaid
-xychart-beta
-    title "Housing — All Models R² Score"
-    x-axis ["Lin Reg", "Ridge", "Lasso", "Dec Tree", "Rand Forest", "Grad Boost", "XGBoost"]
-    y-axis "R² Score" 0.65 --> 0.98
-    bar [0.74, 0.75, 0.73, 0.81, 0.89, 0.91, 0.92]
-```
+<div align="center">
+
+<img src="https://quickchart.io/chart?width=640&height=380&bkg=white&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Lin%20Reg%22%2C%22Ridge%22%2C%22Lasso%22%2C%22Dec%20Tree%22%2C%22Rnd%20Forest%22%2C%22Grad%20Boost%22%2C%22XGBoost%20%E2%AD%90%22%5D%2C%22datasets%22%3A%5B%7B%22type%22%3A%22bar%22%2C%22label%22%3A%22R%C2%B2%20Score%22%2C%22data%22%3A%5B0.74%2C0.75%2C0.73%2C0.81%2C0.89%2C0.91%2C0.92%5D%2C%22backgroundColor%22%3A%5B%22%23C4B5FD%22%2C%22%23A78BFA%22%2C%22%238B5CF6%22%2C%22%237C3AED%22%2C%22%23EAB308%22%2C%22%23D97706%22%2C%22%23A855F7%22%5D%2C%22borderWidth%22%3A0%2C%22borderRadius%22%3A6%7D%2C%7B%22type%22%3A%22line%22%2C%22label%22%3A%22Trend%22%2C%22data%22%3A%5B0.74%2C0.75%2C0.73%2C0.81%2C0.89%2C0.91%2C0.92%5D%2C%22borderColor%22%3A%22%23EF4444%22%2C%22borderWidth%22%3A2.5%2C%22pointBackgroundColor%22%3A%22%23EF4444%22%2C%22pointRadius%22%3A5%2C%22tension%22%3A0.35%2C%22fill%22%3Afalse%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22labels%22%3A%7B%22color%22%3A%22%23374151%22%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Housing%20%E2%80%94%20R%C2%B2%20Score%20by%20Model%22%2C%22font%22%3A%7B%22size%22%3A16%2C%22weight%22%3A%22bold%22%7D%2C%22color%22%3A%22%231a0030%22%7D%7D%2C%22scales%22%3A%7B%22y%22%3A%7B%22min%22%3A0.65%2C%22max%22%3A0.97%2C%22ticks%22%3A%7B%22color%22%3A%22%23374151%22%7D%2C%22grid%22%3A%7B%22color%22%3A%22%23E5E7EB%22%7D%7D%2C%22x%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22%23374151%22%7D%2C%22grid%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D%7D" alt="Housing R² Score by Model"/>
+
+</div>
 
 ---
 
@@ -336,13 +334,11 @@ xychart-beta
 | **Result** | Accuracy **100%** · F1 **1.00** · 10-Fold CV: **98.7% ± 1.2%** |
 | **Why it matters** | Clean methodology + perfect score confirmed by cross-validation |
 
-```mermaid
-xychart-beta
-    title "Iris — Model Accuracy Comparison"
-    x-axis ["Logistic Reg", "KNN k=5", "Decision Tree", "Random Forest", "SVM RBF"]
-    y-axis "Accuracy %" 90 --> 101
-    bar [97.3, 96.7, 95.3, 97.3, 100]
-```
+<div align="center">
+
+<img src="https://quickchart.io/chart?width=600&height=380&bkg=white&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Logistic%20Reg%22%2C%22KNN%20k%3D5%22%2C%22Decision%20Tree%22%2C%22Rand%20Forest%22%2C%22SVM%20RBF%20%E2%AD%90%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Accuracy%20%25%22%2C%22data%22%3A%5B97.3%2C96.7%2C95.3%2C97.3%2C100%5D%2C%22backgroundColor%22%3A%5B%22%236D28D9%22%2C%22%237C3AED%22%2C%22%238B5CF6%22%2C%22%23A78BFA%22%2C%22%23EAB308%22%5D%2C%22borderWidth%22%3A0%2C%22borderRadius%22%3A8%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Iris%20%E2%80%94%20Model%20Accuracy%20Comparison%22%2C%22font%22%3A%7B%22size%22%3A16%2C%22weight%22%3A%22bold%22%7D%2C%22color%22%3A%22%231a0030%22%7D%7D%2C%22scales%22%3A%7B%22y%22%3A%7B%22min%22%3A92%2C%22max%22%3A102%2C%22ticks%22%3A%7B%22color%22%3A%22%23374151%22%2C%22font%22%3A%7B%22size%22%3A12%7D%7D%2C%22grid%22%3A%7B%22color%22%3A%22%23E5E7EB%22%7D%7D%2C%22x%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22%23374151%22%2C%22font%22%3A%7B%22size%22%3A12%7D%7D%2C%22grid%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D%7D" alt="Iris Model Accuracy Comparison"/>
+
+</div>
 
 ---
 
@@ -438,23 +434,19 @@ flowchart LR
 
 ### Skills Coverage Across All Current Projects
 
-```mermaid
-xychart-beta
-    title "Skills Applied — Project Count"
-    x-axis ["EDA", "Feature Eng", "NLP Text", "Deep Learning", "Regression", "Classification", "Ensemble ML", "HyperParam Tune", "Cross Validation", "Model Eval"]
-    y-axis "# Projects" 0 --> 5
-    bar [4, 4, 1, 1, 1, 3, 2, 3, 4, 4]
-```
+<div align="center">
+
+<img src="https://quickchart.io/chart?width=650&height=380&bkg=white&c=%7B%22type%22%3A%22horizontalBar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22EDA%22%2C%22Feature%20Eng%22%2C%22NLP%20%2F%20Text%22%2C%22Deep%20Learning%22%2C%22Regression%22%2C%22Classification%22%2C%22Ensemble%20ML%22%2C%22Hyperparam%20Tuning%22%2C%22Cross%20Validation%22%2C%22Model%20Eval%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22%23%20Projects%22%2C%22data%22%3A%5B4%2C4%2C1%2C1%2C1%2C3%2C2%2C3%2C4%2C4%5D%2C%22backgroundColor%22%3A%5B%22%23A855F7%22%2C%22%239333EA%22%2C%22%23EAB308%22%2C%22%23F59E0B%22%2C%22%2310B981%22%2C%22%23059669%22%2C%22%23EF4444%22%2C%22%23DC2626%22%2C%22%237C3AED%22%2C%22%236D28D9%22%5D%2C%22borderWidth%22%3A0%2C%22borderRadius%22%3A6%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Skills%20Applied%20%E2%80%94%20Project%20Count%22%2C%22font%22%3A%7B%22size%22%3A16%2C%22weight%22%3A%22bold%22%7D%2C%22color%22%3A%22%231a0030%22%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A5%2C%22ticks%22%3A%7B%22color%22%3A%22%23374151%22%2C%22font%22%3A%7B%22size%22%3A12%7D%7D%2C%22grid%22%3A%7B%22color%22%3A%22%23E5E7EB%22%7D%7D%2C%22y%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22%23374151%22%2C%22font%22%3A%7B%22size%22%3A13%7D%7D%2C%22grid%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D%7D" alt="Skills Coverage Chart"/>
+
+</div>
 
 ### Best Score Per Project
 
-```mermaid
-xychart-beta
-    title "Best Accuracy Per Project (Higher = Better)"
-    x-axis ["Email Spam", "MNIST CNN", "Housing (R²x100)", "Iris SVM"]
-    y-axis "Score %" 70 --> 101
-    bar [98.6, 99.2, 92, 100]
-```
+<div align="center">
+
+<img src="https://quickchart.io/chart?width=600&height=380&bkg=white&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22%F0%9F%93%A7%20Email%20Spam%22%2C%22%F0%9F%94%A2%20MNIST%20CNN%22%2C%22%F0%9F%8F%A0%20Housing%20R%C2%B2%C3%97100%22%2C%22%F0%9F%8C%B8%20Iris%20SVM%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Score%20%25%22%2C%22data%22%3A%5B98.6%2C99.2%2C92%2C100%5D%2C%22backgroundColor%22%3A%5B%22%23A855F7%22%2C%22%23EAB308%22%2C%22%23EF4444%22%2C%22%2310B981%22%5D%2C%22borderWidth%22%3A0%2C%22borderRadius%22%3A8%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Best%20Score%20Per%20Project%22%2C%22font%22%3A%7B%22size%22%3A16%2C%22weight%22%3A%22bold%22%7D%2C%22color%22%3A%22%231a0030%22%7D%7D%2C%22scales%22%3A%7B%22y%22%3A%7B%22min%22%3A85%2C%22max%22%3A102%2C%22ticks%22%3A%7B%22color%22%3A%22%23374151%22%2C%22font%22%3A%7B%22size%22%3A12%7D%7D%2C%22grid%22%3A%7B%22color%22%3A%22%23E5E7EB%22%7D%7D%2C%22x%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22%23374151%22%2C%22font%22%3A%7B%22size%22%3A13%7D%7D%2C%22grid%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D%7D" alt="Best Score Per Project Chart"/>
+
+</div>
 
 ### Internship Progress Tracker
 
@@ -636,7 +628,18 @@ jupyter notebook
 
 **⭐ Star this repo to follow my ML journey — new internships added regularly! ⭐**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=This+portfolio+is+alive+and+growing+%F0%9F%9A%80+%E2%80%94+check+back+for+new+internships!;Muhammad+Zafran+%7C+ML+Engineer+in+the+Making+%F0%9F%A4%96" alt="Footer typing"/>
+<br/>
+
+<!-- ── FOOTER TITLE : gold accent ──
+     "✦ Muhammad Zafran ✦" = 19 chars × 9.6px + 80 = 262px — width=400 very safe ── -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=99999&pause=99999&color=EAB308&center=true&vCenter=true&width=400&height=30&lines=%E2%9C%A6+Muhammad+Zafran+%E2%9C%A6" alt="Footer name"/>
+
+<!-- ── FOOTER TAGLINE : rotating, short lines ──
+     Longest: "ML Engineer in the Making 🤖" = 27 chars × 8.4px + 80 = 307px — width=500 very safe ── -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3000&pause=1200&color=D8B4FE&center=true&vCenter=true&width=520&height=30&lines=Portfolio+growing+%F0%9F%9A%80+New+internships+soon!;ML+Engineer+in+the+Making+%F0%9F%A4%96" alt="Footer tagline"/>
+
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-A855F7?style=flat-square&label=" alt="bottom bar"/>
 
 <br/>
 
