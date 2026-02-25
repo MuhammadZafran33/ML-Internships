@@ -8,7 +8,7 @@
        ✅  user-images.githubusercontent.com  (GitHub-hosted gif — always renders)
      Theme: Deep Violet + Gold  →  "Master Portfolio" feel
      ═══════════════════════════════════════════════════════════════════════ -->
-
+</div>
 <!-- CROWN TITLE -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=46&duration=2400&pause=800&color=A855F7&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%A7%A0+ML+Internships+Portfolio;Applied+Machine+Learning+%7C+Real+Companies;Building+a+Career+One+Project+at+a+Time+%F0%9F%9A%80" alt="Crown Title"/>
 
@@ -18,7 +18,7 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 <br/>
-
+<div align="center">
 <!-- TECH BADGES ROW 1 -->
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
